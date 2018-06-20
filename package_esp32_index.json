@@ -12,11 +12,11 @@
           "help": {
             "online": ""
           }, 
-          "url": "https://git.oschina.net/dfrobot/FireBeetle-ESP32/raw/master/DFRobot_FireBeetle-ESP32-0.0.8.zip", 
+          "url": "https://raw.githubusercontent.com/wxzed/TestArduinoPack/master/DFRobot_FireBeetle-ESP32-0.0.8.zip", 
           "checksum": "SHA-256:10735414cd119e5c7d4f89dc9697ace7d8b9d1fade3c8c25b6ed5136ad798d02",
           "version": "0.0.8", 
           "architecture": "DFRobot_FireBeetle-ESP32", 
-          "archiveFileName": "DFRobot_FireBeetle-ESP32-0.0.7.zip", 
+          "archiveFileName": "DFRobot_FireBeetle-ESP32-0.0.8.zip", 
           "boards": [
             {
               "name": "FireBettle-ESP32"
