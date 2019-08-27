@@ -12,6 +12,31 @@
           "help": {
             "online": ""
           }, 
+          "url": "http://download3.dfrobot.com.cn/FireBeetle/DFRobot_FireBeetle-ESP32-0.0.9.zip", 
+          "checksum": "SHA-256:f3755a129b2aece67685091b72538545f4afd08457708f19f33f675b3e5d218e",
+          "version": "0.0.9", 
+          "architecture": "DFRobot_FireBeetle-ESP32", 
+          "archiveFileName": "DFRobot_FireBeetle-ESP32-0.0.9.zip", 
+          "boards": [
+            {
+              "name": "FireBettle-ESP32"
+            }
+          ], 
+          "size": "34582719",
+          "toolsDependencies": [
+            {
+              "packager": "esp32", 
+              "version": "1.22.0-61-gab8375a-5.2.0", 
+              "name": "xtensa-esp32-elf-gcc"
+            }
+          ], 
+          "name": "FireBeetle-ESP32 Mainboard"
+      },
+      {
+          "category": "ESP32", 
+          "help": {
+            "online": ""
+          }, 
           "url": "https://raw.githubusercontent.com/wxzed/TestArduinoPack/master/DFRobot_FireBeetle-ESP32-0.0.8.zip", 
           "checksum": "SHA-256:10735414cd119e5c7d4f89dc9697ace7d8b9d1fade3c8c25b6ed5136ad798d02",
           "version": "0.0.8", 
